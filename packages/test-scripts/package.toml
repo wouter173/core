@@ -3,6 +3,5 @@ name = "test-scripts"
 description = "test-scripts"
 license = "none"
 version = "0.0"
-homepage = ""
 availableVersions = ["0.0"]
 maintainers = ["Wouter de Bruijn <wouter@debruijn.dev>"]
