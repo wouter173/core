@@ -1,0 +1,2 @@
+echo "preinstall"
+ls
